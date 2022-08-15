@@ -5,6 +5,6 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 }
 
-.logo {
+header .logo {
 	background: url("../images/logo.png");
 }
