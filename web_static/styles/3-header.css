@@ -6,6 +6,8 @@ header {
 }
 
 header .logo {
+	height: inherit;
+	width: inherit;
 	background: url("../images/logo.png");
 	margin-left: 20px;
 }
