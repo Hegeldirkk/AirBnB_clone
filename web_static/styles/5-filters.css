@@ -40,10 +40,14 @@ button:hover {
 }
 
 h3 {
+	margin:0px;
+	padding:0px;
         font-weight:600;
 }
 
 h4 {
+	margin:0px;
+	padding:0px;
         font-weight:400;
         font-size:14px;
 }
