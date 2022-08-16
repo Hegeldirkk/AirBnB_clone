@@ -20,3 +20,7 @@ button {
 button:hover {
 	opacity:90%;
 }
+
+.button-right {
+	margin-right: 30px;
+}
