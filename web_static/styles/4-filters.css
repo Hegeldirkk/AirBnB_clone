@@ -1,5 +1,4 @@
 .filters {
-	margin-right: 30px;
 	background-color:white;
 	height: 70px;
 	width:100%;
@@ -16,7 +15,6 @@ button {
 	width:20%;
 	border-radius:4px;
 	text-align:center;
-	margin-right: 30px;
 }
 
 button:hover {
